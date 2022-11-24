@@ -36,6 +36,6 @@ Bootcamp da plataforma de cursos online <strong> <a href="https://web.digitalinn
 - [x] Uso das implementações HashMap e ArrayList;
 - [x] Lógica da programação;
 
-----------------
+------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
